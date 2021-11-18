@@ -22,7 +22,7 @@ const BASE_URL = 'https://cdms-dashboard-api-dev.jba.co.id/v2';
 export default () => {
     var params = {
         headers: {
-          'Authorization': 'Bearer eyJpdiI6IllsVFRQNFNWeWVZellrMmRmSUxXdWc9PSIsInZhbHVlIjoiQ2pTUzZEWGVVNDhcL255YmZkMGRiZmVtdnNiSjU2ZFVCbFNHbG9kenQyaUE9IiwibWFjIjoiZDAzMjkxYmQ4NDZjMDQwZTA5NTBhOTdhYTgzODY1ZjRmNDdhMzIxNzk4MDJjMWYzY2Q5ZjRhNTk0NDQ2YTMzZiJ9',
+          'Authorization': 'Bearer eyJpdiI6IllsVFRQNFNWeWVZelhslrMmRmSUxXdWc9PSIsInZhbHVlIjoiQ2pTUzZEWGVVNDhcL255YmZkMGRiZmVtdnNiSjU2ZFVCbFNHbG9kenQyaUE9IiwibWFjIjoiZDAzMjkxYmQ4NDZjMDQwZTA5NTBhOTdhYTgzODY1ZjRmNDdhIxNzk4MDJjMWYzY2Q5ZjRhNTk0NDQ2YTMzZiJ9',
         },
       };
 
